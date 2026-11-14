@@ -1,0 +1,2 @@
+1|Ali Adeel|ali@gmail.com|1234|03333333333|BSAI|B|PF
+2|Ramesh|ramesh@gmail.com|1234|033333333|BSSE|B|Calculus
