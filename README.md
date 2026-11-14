@@ -1,7 +1,8 @@
 # Student-Management-System
 # 🎓 Student Management System (C + HTML)
-# Miss Kindly read this once so you can understand how it works 
-# The admin password is Hard Coded as admin123 .... 
+### Miss Kindly read this once so you can understand how it works 
+### The admin password is Hard Coded as admin123 .... 
+### To run the project on VS code you'll have to run `./sms.exe ` in the integrated terminal
 
 Welcome to my Student Management System project. This application is built entirely using **Pure C Language** and standard **File Handling** as the database. It uses **HTML and CSS** for the graphical user interface, which is displayed in the web browser. 
 
